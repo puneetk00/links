@@ -1,0 +1,10 @@
+Andoid call recorder basic app
+
+I have required a android call recarder basic app. in this app i don't need any setting panel. 
+only should now the path of all recarding calls and call recorder directory should be hide in phone.
+once i connect with the lappy then it should be accessable and copy the all recording in pc and should be hearable. 
+
+Requiment
+1. No need any setting for set recording path etc. 
+2. should not genrate any icon in menu bar.
+3. 
