@@ -1,0 +1,7 @@
+Which endpoint is used for user authorization(Admin)?
+
+Which of the following code snippets changes the position of the compare products block in the right column?
+
+Magento looks for configuration information for each module in that module’s /etc directory. Depending on the needs of your module, you might have the following configuration files at the top level of your module’s /etc directory?
+
+Where are dynamic view files located in a theme directory?
