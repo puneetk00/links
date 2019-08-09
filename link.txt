@@ -18,3 +18,7 @@ http://40.71.47.14:8083/
 
 Medicine cart
 https://github.com/ishmam999/medicine_guide
+https://github.com/codeforkansascity/street-medicine-kc
+https://github.com/dmitrimahayana/Health_care_and_medicine_system
+https://github.com/dmitrimahayana/Health_care_and_medicine_system
+https://github.com/ayusharma/medical_project
