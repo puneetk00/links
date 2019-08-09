@@ -14,3 +14,7 @@ https://www.petalura.com/
 
 http://synapse.asia/10492_designcaps/
 http://40.71.47.14:8083/
+
+
+Medicine cart
+https://github.com/ishmam999/medicine_guide
